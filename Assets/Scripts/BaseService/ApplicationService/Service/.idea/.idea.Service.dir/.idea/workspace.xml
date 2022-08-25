@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:request-server" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:scene" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d201133-794b-471f-8889-37b49fbfcb70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Ball/1School/SchoolBall.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Ball/1School/SchoolBall.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Bonus/BonusCore/Bonus.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Bonus/BonusCore/Bonus.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ALGERIA_8/BASIC_ALGERIA_8.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ALGERIA_8/BASIC_ALGERIA_8.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ARGENTINE_2/BASIC_ARGENTINE_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ARGENTINE_2/BASIC_ARGENTINE_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_AUSTRIA_16/BASIC_AUSTRIA_16.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_AUSTRIA_16/BASIC_AUSTRIA_16.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_BELGIUM_4/BASIC_BELGIUM_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_BELGIUM_4/BASIC_BELGIUM_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_BRASIL_1/BASIC_BRASIL_1.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_BRASIL_1/BASIC_BRASIL_1.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CAMEROON_12/BASIC_CAMEROON_12.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CAMEROON_12/BASIC_CAMEROON_12.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CANADA_26F/BASIC_CANADA_26F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CANADA_26F/BASIC_CANADA_26F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CHILI_15/BASIC_CHILI_15.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CHILI_15/BASIC_CHILI_15.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CROATIA_9/BASIC_CROATIA_9.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_CROATIA_9/BASIC_CROATIA_9.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ENGLAND_13/BASIC_ENGLAND_13.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ENGLAND_13/BASIC_ENGLAND_13.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_FRANCE_3/BASIC_FRANCE_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_FRANCE_3/BASIC_FRANCE_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_GERMANY_5/BASIC_GERMANY_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_GERMANY_5/BASIC_GERMANY_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_GHANA_22/BASIC_GHANA_22.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_GHANA_22/BASIC_GHANA_22.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ICELAND_18/BASIC_ICELAND_18.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ICELAND_18/BASIC_ICELAND_18.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ITALY_7/BASIC_ITALY_7.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_ITALY_7/BASIC_ITALY_7.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_MEXICO_23/BASIC_MEXICO_23.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_MEXICO_23/BASIC_MEXICO_23.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_NETHERLANDS_21/BASIC_NETHERLANDS_21.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_NETHERLANDS_21/BASIC_NETHERLANDS_21.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_PORTUGAL_11/BASIC_PORTUGAL_11.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_PORTUGAL_11/BASIC_PORTUGAL_11.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_RUSSIA_24/BASIC_RUSSIA_24.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_RUSSIA_24/BASIC_RUSSIA_24.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SCOTLAND_19/BASIC_SCOTLAND_19.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SCOTLAND_19/BASIC_SCOTLAND_19.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SLOVENIA_10/BASIC_SLOVENIA_10.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SLOVENIA_10/BASIC_SLOVENIA_10.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SPAIN_25/BASIC_SPAIN_25.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SPAIN_25/BASIC_SPAIN_25.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SPAIN_6/BASIC_SPAIN_6.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SPAIN_6/BASIC_SPAIN_6.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SWITZERLAND_17/BASIC_SWITZERLAND_17.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_SWITZERLAND_17/BASIC_SWITZERLAND_17.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_URUGUAY_14/BASIC_URUGUAY_14.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_URUGUAY_14/BASIC_URUGUAY_14.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_USA_20/BASIC_USA_20.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Basic/BASIC_USA_20/BASIC_USA_20.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ALBANIA_15/COMMON_ALBANIA_15.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ALBANIA_15/COMMON_ALBANIA_15.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ALGERIA_30/COMMON_ALGERIA_30.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ALGERIA_30/COMMON_ALGERIA_30.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ARGENTINE_1/COMMON_ARGENTINE_1.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ARGENTINE_1/COMMON_ARGENTINE_1.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_AUSTRALIA_12/COMMON_AUSTRALIA_12.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_AUSTRALIA_12/COMMON_AUSTRALIA_12.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_BELGIUM_4/COMMON_BELGIUM_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_BELGIUM_4/COMMON_BELGIUM_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_BRASIL_2/COMMON_BRASIL_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_BRASIL_2/COMMON_BRASIL_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_CANADA_13/COMMON_CANADA_13.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_CANADA_13/COMMON_CANADA_13.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_COLOMBIA_10/COMMON_COLOMBIA_10.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_COLOMBIA_10/COMMON_COLOMBIA_10.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_CONGO_9/COMMON_CONGO_9.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_CONGO_9/COMMON_CONGO_9.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ECUADOR_20/COMMON_ECUADOR_20.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ECUADOR_20/COMMON_ECUADOR_20.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ENGLAND_16/COMMON_ENGLAND_16.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ENGLAND_16/COMMON_ENGLAND_16.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ENGLAND_28/COMMON_ENGLAND_28.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ENGLAND_28/COMMON_ENGLAND_28.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_FRANCE_27/COMMON_FRANCE_27.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_FRANCE_27/COMMON_FRANCE_27.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_FRANCE_3/COMMON_FRANCE_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_FRANCE_3/COMMON_FRANCE_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_GERMANY_26F/COMMON_GERMANY_26F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_GERMANY_26F/COMMON_GERMANY_26F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_GERMANY_6/COMMON_GERMANY_6.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_GERMANY_6/COMMON_GERMANY_6.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_IRLAND_22/COMMON_IRLAND_22.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_IRLAND_22/COMMON_IRLAND_22.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ITALY_8/COMMON_ITALY_8.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_ITALY_8/COMMON_ITALY_8.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_MEXICO_25/COMMON_MEXICO_25.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_MEXICO_25/COMMON_MEXICO_25.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_NETHERLANDS_17/COMMON_NETHERLANDS_17.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_NETHERLANDS_17/COMMON_NETHERLANDS_17.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_NORTH_IRLAND_29/COMMON_NORTH_IRLAND_29.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_NORTH_IRLAND_29/COMMON_NORTH_IRLAND_29.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_PARAGUAY_19/COMMON_PARAGUAY_19.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_PARAGUAY_19/COMMON_PARAGUAY_19.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_PORTUGAL_7/COMMON_PORTUGAL_7.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_PORTUGAL_7/COMMON_PORTUGAL_7.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SENEGAL_24/COMMON_SENEGAL_24.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SENEGAL_24/COMMON_SENEGAL_24.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SERBIA_21/COMMON_SERBIA_21.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SERBIA_21/COMMON_SERBIA_21.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SPAIN_5/COMMON_SPAIN_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_SPAIN_5/COMMON_SPAIN_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_TUNISIA_14/COMMON_TUNISIA_14.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_TUNISIA_14/COMMON_TUNISIA_14.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_TURKEY_11/COMMON_TURKEY_11.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_TURKEY_11/COMMON_TURKEY_11.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_UKRAINE_18/COMMON_UKRAINE_18.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_UKRAINE_18/COMMON_UKRAINE_18.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_USA_23/COMMON_USA_23.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Common/COMMON_USA_23/COMMON_USA_23.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ALGERIA_15/EPIC_ALGERIA_15.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ALGERIA_15/EPIC_ALGERIA_15.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ARGENTINA_1/EPIC_ARGENTINA_1.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ARGENTINA_1/EPIC_ARGENTINA_1.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_BELGIUM_9/EPIC_BELGIUM_9.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_BELGIUM_9/EPIC_BELGIUM_9.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_BRASIL_3/EPIC_BRASIL_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_BRASIL_3/EPIC_BRASIL_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_CROATIA_14/EPIC_CROATIA_14.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_CROATIA_14/EPIC_CROATIA_14.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_EGYPT_11/EPIC_EGYPT_11.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_EGYPT_11/EPIC_EGYPT_11.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ENGLAND_10/EPIC_ENGLAND_10.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ENGLAND_10/EPIC_ENGLAND_10.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_FRANCE_2/EPIC_FRANCE_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_FRANCE_2/EPIC_FRANCE_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_GERMANY_13/EPIC_GERMANY_13.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_GERMANY_13/EPIC_GERMANY_13.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ITALY_7/EPIC_ITALY_7.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_ITALY_7/EPIC_ITALY_7.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_NORWAY_16F/EPIC_NORWAY_16F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_NORWAY_16F/EPIC_NORWAY_16F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_POLAND_12/EPIC_POLAND_12.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_POLAND_12/EPIC_POLAND_12.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_PORTUGAL_4/EPIC_PORTUGAL_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_PORTUGAL_4/EPIC_PORTUGAL_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SENEGAL_6/EPIC_SENEGAL_6.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SENEGAL_6/EPIC_SENEGAL_6.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SPAIN_8/EPIC_SPAIN_8.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SPAIN_8/EPIC_SPAIN_8.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SWEDEN_5/EPIC_SWEDEN_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Epic/EPIC_SWEDEN_5/EPIC_SWEDEN_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_ANGLETERRE_5/LEGENDARY_ANGLETERRE_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_ANGLETERRE_5/LEGENDARY_ANGLETERRE_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_2/LEGENDARY_BRASIL_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_2/LEGENDARY_BRASIL_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_3/LEGENDARY_BRASIL_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_3/LEGENDARY_BRASIL_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_6F/LEGENDARY_BRASIL_6F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_BRASIL_6F/LEGENDARY_BRASIL_6F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_FRANCE_1/LEGENDARY_FRANCE_1.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_FRANCE_1/LEGENDARY_FRANCE_1.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_ITALY_4/LEGENDARY_ITALY_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Legendary/LEGENDARY_ITALY_4/LEGENDARY_ITALY_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_ARGENTINE_2/OLD_SCHOOL_ARGENTINE_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_ARGENTINE_2/OLD_SCHOOL_ARGENTINE_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_BRAZIL_5/OLD_SCHOOL_BRAZIL_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_BRAZIL_5/OLD_SCHOOL_BRAZIL_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_FRANCE_1/OLD_SCHOOL_FRANCE_1.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_FRANCE_1/OLD_SCHOOL_FRANCE_1.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_NETHERLANDS_4/OLD_SCHOOL_NETHERLANDS_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_NETHERLANDS_4/OLD_SCHOOL_NETHERLANDS_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_PORTUGAL_3/OLD_SCHOOL_PORTUGAL_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/OldSchool/OLD_SCHOOL_PORTUGAL_3/OLD_SCHOOL_PORTUGAL_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ARGENTINA_3/RARE_ARGENTINA_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ARGENTINA_3/RARE_ARGENTINA_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BELGIUM_5/RARE_BELGIUM_5.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BELGIUM_5/RARE_BELGIUM_5.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BOSNIA_15/RARE_BOSNIA_15.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BOSNIA_15/RARE_BOSNIA_15.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BRAZIL_2/RARE_BRAZIL_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_BRAZIL_2/RARE_BRAZIL_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_COAST_IVORY_19/RARE_COAST_IVORY_19.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_COAST_IVORY_19/RARE_COAST_IVORY_19.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_COLOMBIA_16/RARE_COLOMBIA_16.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_COLOMBIA_16/RARE_COLOMBIA_16.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_DENMARK_6/RARE_DENMARK_6.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_DENMARK_6/RARE_DENMARK_6.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ENGLAND_12/RARE_ENGLAND_12.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ENGLAND_12/RARE_ENGLAND_12.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_FRANCE_1F/RARE_FRANCE_1F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_FRANCE_1F/RARE_FRANCE_1F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_FRANCE_4/RARE_FRANCE_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_FRANCE_4/RARE_FRANCE_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_GABON_18/RARE_GABON_18.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_GABON_18/RARE_GABON_18.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_GERMANY_7/RARE_GERMANY_7.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_GERMANY_7/RARE_GERMANY_7.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ITALY_11/RARE_ITALY_11.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_ITALY_11/RARE_ITALY_11.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_MOROCCO_20/RARE_MOROCCO_20.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_MOROCCO_20/RARE_MOROCCO_20.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_NETHERLANDS_14/RARE_NETHERLANDS_14.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_NETHERLANDS_14/RARE_NETHERLANDS_14.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_NORWAY_13/RARE_NORWAY_13.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_NORWAY_13/RARE_NORWAY_13.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_PORTUGAL_9/RARE_PORTUGAL_9.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_PORTUGAL_9/RARE_PORTUGAL_9.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_SPAIN_10/RARE_SPAIN_10.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_SPAIN_10/RARE_SPAIN_10.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_SWISS_21/RARE_SWISS_21.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_SWISS_21/RARE_SWISS_21.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_URUGUAY_17/RARE_URUGUAY_17.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_URUGUAY_17/RARE_URUGUAY_17.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_WALES_8/RARE_WALES_8.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/Rare/RARE_WALES_8/RARE_WALES_8.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_2/SUPER_STAR_SUPERSTAR_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_2/SUPER_STAR_SUPERSTAR_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_3/SUPER_STAR_SUPERSTAR_3.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_3/SUPER_STAR_SUPERSTAR_3.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_4/SUPER_STAR_SUPERSTAR_4.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_SUPERSTAR_4/SUPER_STAR_SUPERSTAR_4.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_USA_1F/SUPER_STAR_USA_1F.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Characters/SuperStar/SUPER_STAR_USA_1F/SUPER_STAR_USA_1F.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BabyEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BabyEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BeachEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BeachEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BronzeEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/BronzeEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ClubGroupEmblem.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ClubGroupEmblem.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/CountryEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/CountryEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/DamageEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/DamageEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/EverywhereEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/EverywhereEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/FutsalEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/FutsalEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/GoldEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/GoldEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/HighTechEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/HighTechEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/HobbiesEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/HobbiesEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/IceEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/IceEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/KoEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/KoEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/MechaEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/MechaEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/OccasEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/OccasEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ParkEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ParkEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/RoomEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/RoomEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/SchoolEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/SchoolEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/SilverEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/SilverEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/StreetEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/StreetEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/TouristEmblemgroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/TouristEmblemgroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ToxicEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/ToxicEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/UnderEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/UnderEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/WorldEmblemGroup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Field/Atlas/WorldEmblemGroup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Graphics/Textures/Flags/FlagAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graphics/Textures/Flags/FlagAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ApplicationService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BugService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1kXvvDQUdWixlxYKtB6zs9TxsPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d201133-794b-471f-8889-37b49fbfcb70" name="Default Changelist" comment="" />
+      <created>1605859981387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605859981387</updated>
+      <workItem from="1605859984735" duration="723000" />
+      <workItem from="1605865670855" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605865478795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605865478795" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 766738b23686e1b43905833c7ac6871d, type: 3}
+  m_Name: FruitModel
+  m_EditorClassIdentifier: 
+  fruitsList:
+    list:
+    - id: 1
+      value:
+        fruitColor: {r: 1, g: 0.8524834, b: 0.5518868, a: 0}
+        fruitSprite: {fileID: 21300000, guid: 2aa6ab62866ce4439ab7303f7da55e51, type: 3}
+    - id: 2
+      value:
+        fruitColor: {r: 0.9056604, g: 0.8630411, b: 0, a: 0}
+        fruitSprite: {fileID: 21300000, guid: 50e0347d981414d189ff77217bc6e69c, type: 3}
+    - id: 3
+      value:
+        fruitColor: {r: 1, g: 0.6359669, b: 0.023584902, a: 0}
+        fruitSprite: {fileID: 21300000, guid: 6fc31519aded24a839c1af9e163b6c01, type: 3}
+    - id: 4
+      value:
+        fruitColor: {r: 1, g: 0, b: 0, a: 0}
+        fruitSprite: {fileID: 21300000, guid: 55e29d9a03fe24caba914d7134c713c5, type: 3}
+    - id: 5
+      value:
+        fruitColor: {r: 1, g: 0.25, b: 0.25, a: 0}
+        fruitSprite: {fileID: 21300000, guid: bb7faf4c850ef48cdb33c2bd17737619, type: 3}
+    - id: 6
+      value:
+        fruitColor: {r: 0.14747167, g: 1, b: 0, a: 0}
+        fruitSprite: {fileID: 21300000, guid: bfbf8b6c3b15547df885053bd2807cdd, type: 3}
+    - id: 7
+      value:
+        fruitColor: {r: 0, g: 0.20102534, b: 0.9811321, a: 0}
+        fruitSprite: {fileID: 21300000, guid: 823b5f8305e9543239179c3bf93c1fcd, type: 3}
